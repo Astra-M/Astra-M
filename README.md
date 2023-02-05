@@ -30,8 +30,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### Мой девиз: 
+Ни дня без строчки! Кода :wink:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astra-M)](https://github.com/anuraghazra/github-readme-stats)
 
-### Мой девиз: 
-Ни дня без строчки! Кода :wink:
