@@ -4,11 +4,10 @@
 
 - :woman_student: окончила  **Факультет веб-разработки Яндекс.Практикума** в 2022 г., защитила диплом по специальности **Web Developer(frontend/backend)**
 - :dart: В настоящий момент изучаю Bootstrap
-- :date: Ближайшие планы: написать с нуля интернет-магазин (без него ты вроде как и не разработчик вовсе)
+- :date: Ближайшие планы: написать с нуля интернет-магазин 
 - :sparkles: Идеи для воплощения: разработать соцсеть для любителей :potted_plant:
 - ⚡ Что вдохновляет: писать сервер на node.js
 - :envelope_with_arrow: Связаться со мной: asparagus_m@mail.ru
-
 
 ### :hammer_and_wrench: Мой стек технологий:
 
@@ -33,3 +32,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astra-M)](https://github.com/anuraghazra/github-readme-stats)
+
+### Мой девиз: 
+Ни дня без строчки! Кода :wink:
